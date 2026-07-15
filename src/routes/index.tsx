@@ -60,6 +60,7 @@ const WA_NUMBER = "2290154862418"; // +229 01 54 86 24 18 (indicatif + numéro)
 const WA_LINK = `https://wa.me/${WA_NUMBER}`;
 const PHONE_DISPLAY = "+229 01 54 86 24 18";
 const EMAIL = "josephinesenou11@gmail.com";
+const WA_LINKEDIN = `https://www.linkedin.com/in/josephine-senou-936b17421`;
 
 type ProjectDef = {
   id: string;
@@ -1010,7 +1011,7 @@ function Contact() {
               icon={<Linkedin className="w-4 h-4" />}
               label="LinkedIn"
               value="Josephine SENOU"
-              href= {<https://www.linkedin.com/in/josephine-senou-936b17421>},
+              href= {WA_LINKEDIN},
             />
             <ContactRow
               icon={<MapPin className="w-4 h-4" />}
