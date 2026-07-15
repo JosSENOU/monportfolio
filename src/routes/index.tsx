@@ -146,7 +146,6 @@ const projects: ProjectDef[] = [
       "Couverture complète 6ème — Terminale",
     ],
     images: edunoteShots,
-    links: [{ label: "GitHub", href: "#contact" }],
   },
 ];
 
