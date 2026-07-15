@@ -425,7 +425,7 @@ function Hero() {
           <h1 className="font-serif text-5xl sm:text-6xl md:text-7xl lg:text-[5.2rem] leading-[1.02] tracking-tight">
             Josephine
             <br />
-            <span className="italic text-primary">Senou</span>
+            <span className="italic text-primary">SENOU</span>
             <span className="text-accent">.</span>
           </h1>
 
@@ -480,7 +480,7 @@ function Hero() {
             <div className="relative rounded-[2rem] overflow-hidden border border-border shadow-2xl aspect-[3/4]">
               <img
                 src={jo1}
-                alt="Portrait de Josephine Senou, développeuse web & mobile"
+                alt="Portrait de Josephine SENOU, développeuse web & mobile"
                 className="w-full h-full object-cover"
               />
               <div className="absolute inset-0 bg-gradient-to-t from-foreground/25 via-transparent to-transparent pointer-events-none" />
@@ -568,7 +568,7 @@ function About() {
         <div className="lg:col-span-4 lg:sticky lg:top-24">
           <SectionLabel index="01" label="À propos" />
           <div className="mt-8 rounded-3xl overflow-hidden border border-border aspect-[4/5]">
-            <img src={jo2} alt="Josephine Senou" className="w-full h-full object-cover" />
+            <img src={jo2} alt="Josephine SENOU" className="w-full h-full object-cover" />
           </div>
         </div>
 
