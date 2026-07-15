@@ -1,6 +1,6 @@
 # Portfolio — Josephine Senou
 
-Portfolio personnel de **Josephine Senou**, développeuse web & mobile junior basée à Cotonou, Bénin — étudiante en Licence Professionnelle SIL (HECM Calavi).
+Portfolio personnel de **Josephine Senou**, développeuse web & mobile junior basée à Abomey-Calavi Zogbadjè, Bénin — étudiante en Licence Professionnelle SIL (HECM Calavi).
 
 Site vitrine one-page présentant son profil, ses compétences, ses projets (AcadPay, Institut Saint-Hélier, Aqualia, EduNote), son parcours et un formulaire de contact.
 
