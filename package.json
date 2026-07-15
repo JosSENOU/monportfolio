@@ -8,6 +8,7 @@
     "build": "vite build",
     "build:dev": "vite build --mode development",
     "preview": "vite preview",
+    "start": "node .output/server/index.mjs",
     "lint": "eslint .",
     "format": "prettier --write ."
   },
@@ -85,9 +86,17 @@
     "vite": "^8.0.16"
   },
   "version": "1.0.0",
-  "description": "",
+  "description": "Portfolio personnel de **Josephine Senou**, développeuse web & mobile junior basée à Cotonou, Bénin — étudiante en Licence Professionnelle SIL (HECM Calavi).",
   "main": "eslint.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JosSENOU/monportfolio.git"
+  },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JosSENOU/monportfolio/issues"
+  },
+  "homepage": "https://github.com/JosSENOU/monportfolio#readme"
 }

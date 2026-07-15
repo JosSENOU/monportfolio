@@ -12,4 +12,9 @@ export default defineConfig({
     // nitro/vite builds from this
     server: { entry: "server" },
   },
+  // Deployed on Render (a standard Node.js host) — override the Cloudflare Workers
+  // default so the build outputs a plain Node server instead of a CF Worker bundle.
+  nitro: {
+    preset: "node-server",
+  },
 });

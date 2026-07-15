@@ -56,7 +56,7 @@ export const Route = createFileRoute("/")({
   component: Index,
 });
 
-const WA_NUMBER = "22901548624181"; // +229 01 54 86 24 18 (indicatif + numéro)
+const WA_NUMBER = "2290154862418"; // +229 01 54 86 24 18 (indicatif + numéro)
 const WA_LINK = `https://wa.me/${WA_NUMBER}`;
 const PHONE_DISPLAY = "+229 01 54 86 24 18";
 const EMAIL = "josephinesenou11@gmail.com";
@@ -101,17 +101,16 @@ const projects: ProjectDef[] = [
     index: "02",
     tagline: "Site vitrine pour un institut médical",
     year: "2026",
-    role: "Développement fullstack — PHP Laravel",
+    role: "Développement fullstack — Node.js Laravel",
     description:
       "Site vitrine pour l'Institut Saint-Hélier : présentation de l'établissement, spécialités médicales, équipe de médecins et prise de rendez-vous en ligne. Interface soignée, responsive et pensée pour rassurer les patients.",
-    stack: ["PHP", "Laravel", "MySQL", "Tailwind"],
+    stack: ["Node.js", "Laravel", "React"],
     highlights: [
       "Présentation des spécialités & médecins",
       "Prise de rendez-vous en ligne",
       "Design éditorial calme et responsive",
     ],
     images: institutShots,
-    links: [{ label: "GitHub — bientôt", href: "#contact" }],
   },
   {
     id: "aqualia",
@@ -122,14 +121,14 @@ const projects: ProjectDef[] = [
     role: "Développement web — front & back",
     description:
       "Projet Aqualia : plateforme web centrée sur les services liés à l'eau et au bien-être. Interface fluide, parcours utilisateur simple, et back-office pour gérer le contenu.",
-    stack: ["PHP", "Laravel", "MySQL", "Tailwind"],
+    stack: ["Node.js", "Laravel", "React"],
     highlights: [
       "Front élégant et fluide",
       "Back-office de gestion",
       "Optimisation mobile",
     ],
     images: aqualiaShots,
-    links: [{ label: "GitHub — bientôt", href: "#contact" }],
+    links: [{ label: "GitHub", href: "#contact" }],
   },
   {
     id: "edunote",
@@ -147,7 +146,7 @@ const projects: ProjectDef[] = [
       "Couverture complète 6ème — Terminale",
     ],
     images: edunoteShots,
-    links: [{ label: "GitHub — bientôt", href: "#contact" }],
+    links: [{ label: "GitHub", href: "#contact" }],
   },
 ];
 
