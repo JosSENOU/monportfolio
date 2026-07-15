@@ -997,7 +997,7 @@ function Contact() {
               icon={<Phone className="w-4 h-4" />}
               label="Téléphone"
               value={PHONE_DISPLAY}
-              href={`tel:+22901548624181`}
+              href={`tel:+2290154862418`}
             />
             <ContactRow
               icon={<MessageCircle className="w-4 h-4" />}
@@ -1009,7 +1009,8 @@ function Contact() {
             <ContactRow
               icon={<Linkedin className="w-4 h-4" />}
               label="LinkedIn"
-              value="À venir"
+              value="josephine-senou"
+              href: "https://www.linkedin.com/in/josephine-senou-936b17421",
             />
             <ContactRow
               icon={<MapPin className="w-4 h-4" />}
