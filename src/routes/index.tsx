@@ -129,7 +129,7 @@ const projects: ProjectDef[] = [
       "Optimisation mobile",
     ],
     images: aqualiaShots,
-    links: [{ label: "GitHub", href: "#contact" }],
+    links: [{ label: "Voir le site", href: "https://aqualia-5f2p.onrender.com" }],
   },
   {
     id: "edunote",
