@@ -466,7 +466,7 @@ function Hero() {
             <Stat kpi="Très Bien" label="Mention Licence" />
             <Stat kpi="2" label="Stages Beta2" />
             <Stat kpi="4+" label="Projets livrés" />
-            <Stat kpi="Bénin" label="Basée à Cotonou" />
+            <Stat kpi="Bénin" label="Basée à Abomey-Calavi Zogbadjè" />
           </div>
         </div>
 
@@ -601,7 +601,7 @@ function About() {
 
           <div className="mt-10 grid sm:grid-cols-2 gap-4">
             <InfoCard label="Formation" value="Licence SIL — HECM (2023–2026)" />
-            <InfoCard label="Localisation" value="Cotonou, Bénin" />
+            <InfoCard label="Localisation" value="Abomey-Calavi Zogbadjè, Bénin" />
             <InfoCard label="Langues" value="Français · Fon · Goun · Anglais (déb.)" />
             <InfoCard label="Disponibilité" value="Stage & premier emploi" />
           </div>
@@ -658,7 +658,7 @@ function Skills() {
     },
     {
       title: "Outils",
-      items: ["Git & GitHub", "VS Code", "Figma (lecture)", "Postman"],
+      items: ["Git & GitHub", "VS Code", "Postman"],
     },
     {
       title: "Soft skills",
@@ -1014,7 +1014,7 @@ function Contact() {
             <ContactRow
               icon={<MapPin className="w-4 h-4" />}
               label="Localisation"
-              value="Cotonou, Bénin"
+              value="Abomey-Calavi Zogbadjè, Bénin"
             />
 
             <div className="mt-6 rounded-3xl border border-border bg-card/60 backdrop-blur p-6">
