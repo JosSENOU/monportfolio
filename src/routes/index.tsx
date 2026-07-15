@@ -466,7 +466,7 @@ function Hero() {
           <div className="mt-10 grid grid-cols-2 sm:grid-cols-4 gap-6 max-w-xl">
             <Stat kpi="Très Bien" label="Mention Licence" />
             <Stat kpi="2" label="Stages Beta2" />
-            <Stat kpi="4+" label="Projets livrés" />
+            <Stat kpi="4+" label="Projets" />
             <Stat kpi="Bénin" label="Basée à Abomey-Calavi Zogbadjè" />
           </div>
         </div>
