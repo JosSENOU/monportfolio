@@ -339,7 +339,7 @@ function NavBar({
         <a href="#top" className="flex items-baseline gap-2 group">
           <span className="font-serif text-xl md:text-2xl tracking-tight">Josephine</span>
           <span className="text-xs uppercase tracking-[0.25em] text-muted-foreground hidden sm:inline">
-            Senou
+            SENOU
           </span>
         </a>
 
@@ -1085,7 +1085,7 @@ function Footer() {
     <footer className="relative z-10 border-t border-border py-10 mt-8">
       <div className="mx-auto max-w-7xl px-5 md:px-8 flex flex-col md:flex-row items-center justify-between gap-4 text-sm text-muted-foreground">
         <div className="font-serif">
-          © 2026 <span className="italic text-foreground">Josephine Senou</span> — Tous
+          © 2026 <span className="italic text-foreground">Josephine SENOU</span> — Tous
           droits réservés
         </div>
         <div className="flex items-center gap-5">
