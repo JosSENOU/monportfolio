@@ -1011,7 +1011,7 @@ function Contact() {
               icon={<Linkedin className="w-4 h-4" />}
               label="LinkedIn"
               value="Josephine SENOU"
-              href= {WA_LINKEDIN},
+              href={WA_LINKEDIN}
             />
             <ContactRow
               icon={<MapPin className="w-4 h-4" />}
