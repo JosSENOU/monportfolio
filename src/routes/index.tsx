@@ -1009,8 +1009,8 @@ function Contact() {
             <ContactRow
               icon={<Linkedin className="w-4 h-4" />}
               label="LinkedIn"
-              value="josephine-senou"
-              href: "https://www.linkedin.com/in/josephine-senou-936b17421",
+              value="Josephine SENOU"
+              href= {<https://www.linkedin.com/in/josephine-senou-936b17421>},
             />
             <ContactRow
               icon={<MapPin className="w-4 h-4" />}
