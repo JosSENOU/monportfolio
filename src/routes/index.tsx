@@ -99,11 +99,11 @@ const projects: ProjectDef[] = [
     id: "institut",
     name: "Institut Saint-Hélier",
     index: "02",
-    tagline: "Site vitrine pour un institut médical",
+    tagline: "Plateforme pour un institut médical",
     year: "2026",
     role: "Développement fullstack — Node.js Laravel",
     description:
-      "Site vitrine pour l'Institut Saint-Hélier : présentation de l'établissement, spécialités médicales, équipe de médecins et prise de rendez-vous en ligne. Interface soignée, responsive et pensée pour rassurer les patients.",
+      "Plateforme pour l'Institut Saint-Hélier : présentation de l'établissement, spécialités médicales, équipe de médecins et prise de rendez-vous en ligne. Interface soignée, responsive et pensée pour rassurer les patients.",
     stack: ["Node.js", "Laravel", "React"],
     highlights: [
       "Présentation des spécialités & médecins",
